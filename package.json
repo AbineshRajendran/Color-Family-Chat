@@ -1,0 +1,15 @@
+{
+  "name": "color-family-chat",
+  "version": "1.0.0",
+  "description": "Color Family Chat – Interactive Web Chat Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
